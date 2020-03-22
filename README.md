@@ -1,5 +1,11 @@
 # github-api-reactjs
 
+>Main
+![Main](./images/01.png)
+
+>Repository
+![Repository](./images/02.png)
+
 ## Motivation
 
 During a Rocketseat course, this project is a oportunitty to learn more about ReactJS.
